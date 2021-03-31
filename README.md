@@ -36,3 +36,10 @@ This research project is completed under the guidance of  **Dr. Karpagam G R** (
 Coordinator, CSE, PSG College of Technology) and **Dr. Maheshwaran V** (Associate Professor, Department of 
 Radiology, PSG Institute of Medical Sciences & Research) and was supported by the **Centre for Artificial Intelligence and Research Laboratory**, PSG
 College of Technology. 
+
+![Data Distribution - Number of COVID Patients and Normal Patients
+](https://github.com/samyukthagopalsamy/CNN-BASED-COVID-19-HRCT-IMAGES-CLASSIFIER/blob/master/images/data%20distribution.png?raw=true)
+![Data Distribution - CT Score (CTSI) vs Number of Patients 
+](https://github.com/samyukthagopalsamy/CNN-BASED-COVID-19-HRCT-IMAGES-CLASSIFIER/blob/master/images/SeverityScore.png?raw=true)
+![Data Distribution - Severity of COVID-19 Patients](https://github.com/samyukthagopalsamy/CNN-BASED-COVID-19-HRCT-IMAGES-CLASSIFIER/blob/master/images/dist%20by%20severity.png?raw=true)
+![Dataset Split](https://github.com/samyukthagopalsamy/CNN-BASED-COVID-19-HRCT-IMAGES-CLASSIFIER/blob/master/images/datasplit.png?raw=true)
