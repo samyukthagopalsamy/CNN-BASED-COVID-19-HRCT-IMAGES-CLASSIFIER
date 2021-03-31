@@ -23,4 +23,16 @@ categorize all the pixels in a digital image into one of two classes. <br>
 on the amount of lung infected. <br>
 * Achieved an accuracy of 82.11%, F1-score of 82.25%, and AUC of 0.857
 
+The **data set** for this project is provided by **PSG Institute of Medical Sciences & Research**, 
+Coimbatore. This data set contains a combination of Computed Tomography (CT) scan 
+images of patients who are affected by COVID-19 and patients who are not affected by 
+COVID-19. 
 
+A total of 210 patients CT scan images were given in which 125 patients are affected by 
+COVID-19, and 85 patients are not affected by COVID-19. 
+Each of these 210 patients’ CT scans contained nearly 400 to 800 slices of information. 
+
+This research project is completed under the guidance of  **Dr. Karpagam G R** (Associate Head and Programme 
+Coordinator, CSE, PSG College of Technology) and **Dr. Maheshwaran V** (Associate Professor, Department of 
+Radiology, PSG Institute of Medical Sciences & Research) and was supported by the **Centre for Artificial Intelligence and Research Laboratory**, PSG
+College of Technology. 
